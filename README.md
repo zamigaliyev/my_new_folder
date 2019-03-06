@@ -14,4 +14,11 @@ Ashagidaki qaydalara emel etsez onda proyekt sizin kompda ishleyecek..
 2. Ikinci addim
 
     - Daha novbeti addim
-     
+    
+    
+    
+    
+```C++
+    cout << "Hello World !">> endl;
+```
+
